@@ -1,0 +1,58 @@
+{
+  "tollywood_actors": [
+    { "normal": "Pushpa", "imposter": "Salaar" },
+    { "normal": "Allu Arjun", "imposter": "Ram Charan" },
+    { "normal": "Jr NTR", "imposter": "Pawan Kalyan" },
+    { "normal": "Mahesh Babu", "imposter": "Prabhas" },
+    { "normal": "Vijay Deverakonda", "imposter": "Naga Chaitanya" }
+  ],
+  "bollywood_films": [
+    { "normal": "Kabir Singh", "imposter": "Arjun Reddy" },
+    { "normal": "3 Idiots", "imposter": "Taare Zameen Par" },
+    { "normal": "Dangal", "imposter": "Sultan" },
+    { "normal": "DDLJ", "imposter": "Kuch Kuch Hota Hai" },
+    { "normal": "Sholay", "imposter": "Deewaar" }
+  ],
+  "colors": [
+    { "normal": "Crimson", "imposter": "Scarlet" },
+    { "normal": "Cobalt", "imposter": "Navy" },
+    { "normal": "Emerald", "imposter": "Jade" },
+    { "normal": "Amber", "imposter": "Gold" },
+    { "normal": "Violet", "imposter": "Purple" }
+  ],
+  "foods": [
+    { "normal": "Biryani", "imposter": "Pulao" },
+    { "normal": "Pizza", "imposter": "Calzone" },
+    { "normal": "Tacos", "imposter": "Burritos" },
+    { "normal": "Ramen", "imposter": "Pho" },
+    { "normal": "Sushi", "imposter": "Sashimi" }
+  ],
+  "celebrities": [
+    { "normal": "Elon Musk", "imposter": "Jeff Bezos" },
+    { "normal": "Taylor Swift", "imposter": "Selena Gomez" },
+    { "normal": "Cristiano Ronaldo", "imposter": "Lionel Messi" },
+    { "normal": "Virat Kohli", "imposter": "Rohit Sharma" },
+    { "normal": "Shah Rukh Khan", "imposter": "Salman Khan" }
+  ],
+  "brands": [
+    { "normal": "Apple", "imposter": "Samsung" },
+    { "normal": "Nike", "imposter": "Adidas" },
+    { "normal": "McDonald's", "imposter": "Burger King" },
+    { "normal": "Pepsi", "imposter": "Coca-Cola" },
+    { "normal": "BMW", "imposter": "Mercedes" }
+  ],
+  "animals": [
+    { "normal": "Cheetah", "imposter": "Leopard" },
+    { "normal": "Dolphin", "imposter": "Porpoise" },
+    { "normal": "Alligator", "imposter": "Crocodile" },
+    { "normal": "Rabbit", "imposter": "Hare" },
+    { "normal": "Bison", "imposter": "Buffalo" }
+  ],
+  "sports": [
+    { "normal": "Cricket", "imposter": "Baseball" },
+    { "normal": "Football", "imposter": "Rugby" },
+    { "normal": "Badminton", "imposter": "Tennis" },
+    { "normal": "Swimming", "imposter": "Water Polo" },
+    { "normal": "Boxing", "imposter": "Kickboxing" }
+  ]
+}
